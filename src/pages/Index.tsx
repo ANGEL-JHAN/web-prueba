@@ -13,12 +13,11 @@ export default function Index() {
               Estudio creativo · Desde 2015
             </div>
             <h1 className="text-5xl sm:text-6xl md:text-7xl leading-[1.02] text-ink">
-              Diseño con <em className="font-display italic text-accent">intención</em>,
-              detalle y calma.
+              Tradición tejida en cada<em className="font-display italic text-accent">sombrero</em>,
+              .
             </h1>
             <p className="mt-6 max-w-xl text-base text-muted-foreground leading-relaxed">
-              Creamos identidades, sitios web y campañas visuales para marcas que
-              valoran la precisión, la elegancia y las ideas duraderas.
+              Descubre los sombreros artesanales de paja elaborados por los artesanos de San Antonio, donde cada tejido representa nuestra historia, cultura e identidad.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
               <Link to="/servicios" className="inline-flex items-center rounded-full bg-primary px-6 py-3 text-sm font-medium text-primary-foreground transition hover:opacity-90">
