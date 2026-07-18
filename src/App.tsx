@@ -10,7 +10,7 @@ import Servicios from "./pages/Servicios";
 import Contacto from "./pages/Contacto";
 
 const META: Record<string, { title: string; description: string }> = {
-  "/": { title: "Atelier — Estudio creativo", description: "Estudio creativo dedicado al diseño, dirección de arte y experiencias visuales." },
+  "/": { title: "TRADICIÓN TEJIDA EN CADA SOMBRERO", description: "Descubre los sombreros artesanales de paja elaborados por los artesanos de San Antonio, donde cada tejido representa nuestra historia, cultura e identidad." },
   "/nosotros": { title: "Nosotros — Atelier", description: "Nuestra filosofía y equipo." },
   "/videos": { title: "Videos — Atelier", description: "Piezas audiovisuales y campañas en movimiento." },
   "/galeria": { title: "Galería — Atelier", description: "Imágenes y composiciones seleccionadas." },
