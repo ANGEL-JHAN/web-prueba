@@ -10,10 +10,10 @@ export default function Index() {
         <div className="grid md:grid-cols-12 gap-10 items-end">
           <div className="md:col-span-7">
             <div className="text-xs uppercase tracking-[0.28em] text-muted-foreground mb-6">
-              Estudio creativo · Desde 2015
+              San Antonio bajo
             </div>
             <h1 className="text-5xl sm:text-6xl md:text-7xl leading-[1.02] text-ink">
-              Tradición tejida en cada<em className="font-display italic text-accent">sombrero</em>,
+              Tradición tejida en cada<em className="font-display italic text-accent">sombrero</em>
               .
             </h1>
             <p className="mt-6 max-w-xl text-base text-muted-foreground leading-relaxed">
