@@ -3,26 +3,26 @@ import { Link } from "react-router-dom";
 const services = [
   {
     n: "01",
-    t: "Identidad de marca",
-    d: "Sistemas visuales completos, desde la investigación hasta el manual de aplicación.",
+    t: "Elaboración artesanal",
+    d: "Creamos sombreros de paja con técnicas tradicionales, cuidando cada detalle para garantizar calidad, comodidad y durabilidad.",
     items: ["Naming y verbal identity", "Logotipo y sistema visual", "Tipografía y color", "Manual de marca"],
   },
   {
     n: "02",
-    t: "Diseño web",
-    d: "Sitios editoriales, portfolios y plataformas con foco en rendimiento y accesibilidad.",
+    t: "Diseño y personalización",
+    d: "Desarrollamos sombreros con estilos únicos para uso diario, eventos, empresas y pedidos especiales.",
     items: ["Diseño UI/UX", "Desarrollo front-end", "CMS a medida", "SEO técnico"],
   },
   {
     n: "03",
-    t: "Dirección de arte",
-    d: "Campañas, editoriales y contenido visual con una voz coherente y refinada.",
+    t: "Comercialización y distribución",
+    d: "Llevamos nuestros sombreros a clientes, comercios y mercados, ofreciendo productos artesanales de excelente calidad.",
     items: ["Concept y storytelling", "Fotografía y styling", "Producción", "Motion y edición"],
   },
   {
     n: "04",
-    t: "Consultoría creativa",
-    d: "Acompañamos a equipos internos en la definición de dirección y estándares visuales.",
+    t: "Conservación y tradición",
+    d: "Promovemos el valor cultural del tejido en paja mediante la capacitación y el fortalecimiento del trabajo artesanal.",
     items: ["Auditoría de marca", "Workshops", "Sistemas de diseño", "Mentoría"],
   },
 ];
