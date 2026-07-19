@@ -20,7 +20,7 @@ export default function Galeria() {
       <section className="container-editorial pt-16 pb-10">
         <div className="text-xs uppercase tracking-[0.28em] text-muted-foreground">Galería</div>
         <h1 className="mt-4 text-5xl md:text-7xl max-w-4xl">
-          imagenes de<em className="italic text-accent">artesanos</em>.
+          imagenes de <em className="italic text-accent">artesanos</em>.
         </h1>
         <p className="mt-6 max-w-xl text-muted-foreground leading-relaxed">
           Piezas seleccionadas de nuestros proyectos recientes. Fotografía, dirección
