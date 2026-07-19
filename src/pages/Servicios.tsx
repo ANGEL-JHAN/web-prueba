@@ -5,25 +5,25 @@ const services = [
     n: "01",
     t: "Elaboración artesanal",
     d: "Creamos sombreros de paja con técnicas tradicionales, cuidando cada detalle para garantizar calidad, comodidad y durabilidad.",
-    items: ["Naming y verbal identity", "Logotipo y sistema visual", "Tipografía y color", "Manual de marca"],
+    items: ["Selección de paja natural", "Tejido artesanal", "Acabados a mano", "Control de calidad"],
   },
   {
     n: "02",
     t: "Diseño y personalización",
     d: "Desarrollamos sombreros con estilos únicos para uso diario, eventos, empresas y pedidos especiales.",
-    items: ["Diseño UI/UX", "Desarrollo front-end", "CMS a medida", "SEO técnico"],
+    items: ["Diseños personalizados", "Diferentes tamaños", "acabados especiales", "Personalización con cintas y accesorios"],
   },
   {
     n: "03",
     t: "Comercialización y distribución",
     d: "Llevamos nuestros sombreros a clientes, comercios y mercados, ofreciendo productos artesanales de excelente calidad.",
-    items: ["Concept y storytelling", "Fotografía y styling", "Producción", "Motion y edición"],
+    items: ["Venta al por mayor y menor", "Pedidos nacionales", "Empaque seguro", "Entregas puntuales"],
   },
   {
     n: "04",
     t: "Conservación y tradición",
     d: "Promovemos el valor cultural del tejido en paja mediante la capacitación y el fortalecimiento del trabajo artesanal.",
-    items: ["Auditoría de marca", "Workshops", "Sistemas de diseño", "Mentoría"],
+    items: ["Capacitación en tejido", "Rescate de técnicas tradicionales", "Asesoría para artesanos", "Promoción de la artesanía local"],
   },
 ];
 
