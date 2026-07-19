@@ -60,9 +60,9 @@ export default function Index() {
           </div>
           <div className="mt-12 grid md:grid-cols-3 gap-8">
             {[
-              { n: "01", t: "Identidad de marca", d: "Sistemas visuales completos: logotipo, tipografía, color y guías de aplicación." },
-              { n: "02", t: "Diseño web", d: "Sitios y experiencias digitales que combinan estética editorial y rendimiento." },
-              { n: "03", t: "Dirección de arte", d: "Campañas, editoriales y contenido visual con una voz coherente y refinada." },
+              { n: "01 Elaboración artesanal", t: "Identidad de marca", d: "Cada sombrero es tejido a mano por artesanos locales, preservando técnicas transmitidas de generación en generación." },
+              { n: "02 Diseños ancestrales", t: "Diseño web", d: "Nuestros sombreros reflejan la identidad cultural de San Antonio mediante formas y detalles inspirados en nuestras tradiciones." },
+              { n: "03 Materiales naturales", t: "Dirección de arte", d: "Utilizamos fibras de paja cuidadosamente seleccionadas para garantizar calidad, resistencia y sostenibilidad." },
             ].map((s) => (
               <div key={s.n} className="border-t border-ink/20 pt-6">
                 <div className="text-xs tracking-[0.2em] text-muted-foreground">{s.n}</div>
