@@ -37,10 +37,10 @@ export default function Index() {
 
         <div className="mt-16 md:mt-24 grid grid-cols-2 md:grid-cols-4 gap-8 border-t border-border pt-8">
           {[
-            ["120+", "Proyectos entregados"],
-            ["18", "Premios internacionales"],
-            ["30", "Clientes activos"],
-            ["9 años", "De trayectoria"],
+            ["1", "100% Hecho tradicionalmente"],
+            ["2", "Materiales naturales"],
+            ["3", "Diseños auténticos"],
+            ["4", "Legado cultural"],
           ].map(([n, l]) => (
             <div key={l}>
               <div className="font-display text-3xl md:text-4xl text-ink">{n}</div>
