@@ -53,7 +53,7 @@ export default function Index() {
       <section className="bg-warm py-20">
         <div className="container-editorial">
           <div className="flex items-end justify-between gap-6 flex-wrap">
-            <h2 className="text-4xl md:text-5xl max-w-xl">Un enfoque sereno y meticuloso.</h2>
+            <h2 className="text-4xl md:text-5xl max-w-xl">MATERIALES UTILIZADOS EN LA ELABORACIÓN DEL SOMBRERO DE PAJA.</h2>
             <Link to="/servicios" className="text-sm underline underline-offset-4 hover:text-accent">
               Todos los servicios
             </Link>
