@@ -33,7 +33,7 @@ export default function Servicios() {
       <section className="container-editorial pt-16 pb-10">
         <div className="text-xs uppercase tracking-[0.28em] text-muted-foreground">Servicios</div>
         <h1 className="mt-4 text-5xl md:text-7xl max-w-4xl">
-          Cuatro <em className="italic text-accent">disciplinas</em>, un solo criterio.
+          Cuatro <em className="italic text-accent">especialidades</em>, una sola tradición.
         </h1>
       </section>
 
