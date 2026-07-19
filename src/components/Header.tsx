@@ -16,9 +16,9 @@ export default function Header() {
     <header className="sticky top-0 z-40 border-b border-border/60 bg-background/85 backdrop-blur-md">
       <div className="container-editorial flex h-16 items-center justify-between">
         <Link to="/" className="flex items-center gap-2">
-          <span className="font-display text-2xl leading-none">Atelier</span>
+          <span className="font-display text-2xl leading-none">ANGELOFC</span>
           <span className="hidden text-[10px] uppercase tracking-[0.25em] text-muted-foreground sm:inline">
-            Estudio · 2015
+            San Antonio bajo
           </span>
         </Link>
         <nav className="hidden md:flex items-center gap-8">
