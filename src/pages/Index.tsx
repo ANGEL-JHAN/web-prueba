@@ -100,11 +100,10 @@ export default function Index() {
           </div>
           <blockquote className="md:col-span-8">
             <p className="font-display text-3xl md:text-4xl leading-tight text-ink">
-              “Atelier convirtió una idea vaga en una marca con presencia editorial.
-              Cada decisión estaba justificada, cada detalle pulido.”
+              “Los estudiantes de 4º A construyeron un sitio web para ayudar a los artesanos a vender más sus productos a través de la publicidad.”
             </p>
             <footer className="mt-6 text-sm text-muted-foreground">
-              — Angel, Jhunior, Cristian Massiel
+              — Angel, Jhunior, Cristian, Massiel
             </footer>
           </blockquote>
         </div>
