@@ -8,7 +8,7 @@ import team from "@/assets/team.jpg";
 const items = [
   { src: g1, alt: "Formas y luz", cap: "Artesano vendiendo 01" },
   { src: g2, alt: "Cerámica en luz natural", cap: "Artesano comercializando 02" },
-  { src: hero, alt: "Interior arquitectónico", cap: "Arquitectura · Blanco cálido" },
+  { src: hero, alt: "Interior arquitectónico", cap: "Arquitectura · San Antonio" },
   { src: g3, alt: "Espacio de trabajo", cap: "Editorial · Estudio" },
   { src: g4, alt: "Mármol y sombras", cap: "Artesano comercializando 04" },
   { src: team, alt: "Retrato de equipo", cap: "Retrato · Equipo" },
