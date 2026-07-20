@@ -104,14 +104,14 @@ export default function Index() {
               Cada decisión estaba justificada, cada detalle pulido.”
             </p>
             <footer className="mt-6 text-sm text-muted-foreground">
-              — Clara Ibáñez, Directora creativa · Casa Norte
+              — Angel, Jhunior, Cristian Massiel
             </footer>
           </blockquote>
         </div>
       </section>
 
       <section className="container-editorial py-24 text-center">
-        <h2 className="text-4xl md:text-6xl max-w-3xl mx-auto">¿Tienes un proyecto en mente?</h2>
+        <h2 className="text-4xl md:text-6xl max-w-3xl mx-auto">¿Tienes algo en mente?</h2>
         <p className="mt-4 text-muted-foreground max-w-xl mx-auto">
           Trabajamos con un número limitado de clientes al año. Escríbenos y
           conversemos sobre lo que quieres construir.
