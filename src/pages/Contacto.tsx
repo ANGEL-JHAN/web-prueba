@@ -25,7 +25,7 @@ export default function Contacto() {
           </div>
           <div>
             <div className="text-xs uppercase tracking-[0.2em] text-muted-foreground">Teléfono</div>
-            <p className="mt-2 text-lg">+34 900 123 456</p>
+            <p className="mt-2 text-lg">+51 987 654 321</p>
           </div>
           <div>
             <div className="text-xs uppercase tracking-[0.2em] text-muted-foreground">Horario</div>
