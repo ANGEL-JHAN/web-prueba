@@ -16,14 +16,10 @@ export default function Nosotros() {
         </div>
         <div className="md:col-span-5">
           <p className="text-lg text-ink leading-relaxed">
-            Nacimos en 2015 en un altillo de Madrid con una convicción: el diseño
-            comercial también puede ser silencioso, preciso y humano.
+            Nacimos en 2010 en Perú somos estudiantes del Colegio Santiago Antúnez de Mayolo.
           </p>
           <p className="mt-6 text-muted-foreground leading-relaxed">
-            Hoy somos un equipo de nueve personas trabajando con marcas culturales,
-            hoteleras, editoriales y de consumo en Europa y Latinoamérica. Nos
-            interesa lo que dura: sistemas visuales que envejecen bien, sitios web
-            que resisten al tiempo y campañas que no gritan.
+            Hoy somos un equipo de cuatro personas trabajando con marcas culturales.
           </p>
           <p className="mt-6 text-muted-foreground leading-relaxed">
             Trabajamos con un número limitado de clientes al año para poder implicarnos
