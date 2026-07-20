@@ -55,10 +55,10 @@ export default function Nosotros() {
         <h2 className="text-4xl md:text-5xl">Equipo.</h2>
         <div className="mt-10 grid sm:grid-cols-2 md:grid-cols-4 gap-8">
           {[
-            ["Lucía Marín", "Directora creativa"],
-            ["Diego Salazar", "Director de diseño"],
-            ["Ana Pérez", "Estrategia de marca"],
-            ["Mateo Ruiz", "Desarrollo & motion"],
+            ["Angel", "Creador de la web"],
+            ["Jhunior", "Apoyamiento en la web"],
+            ["Cristian", "Apoyamiento en la web"],
+            ["Massiel", "Apoyamiento en la web"],
           ].map(([n, r]) => (
             <div key={n}>
               <div className="aspect-[3/4] rounded-md bg-warm border border-border" />
