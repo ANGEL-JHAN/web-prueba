@@ -17,11 +17,11 @@ export default function Contacto() {
         <div className="md:col-span-5 space-y-8">
           <div>
             <div className="text-xs uppercase tracking-[0.2em] text-muted-foreground">Estudio</div>
-            <p className="mt-2 text-lg">Calle del Almendro 12<br />28005 Madrid, España</p>
+            <p className="mt-2 text-lg">San Antonio <br />28005 Bambamarca, Perú</p>
           </div>
           <div>
             <div className="text-xs uppercase tracking-[0.2em] text-muted-foreground">Email</div>
-            <p className="mt-2 text-lg">hola@atelier.studio</p>
+            <p className="mt-2 text-lg">exampleajmc@gmail.com</p>
           </div>
           <div>
             <div className="text-xs uppercase tracking-[0.2em] text-muted-foreground">Teléfono</div>
