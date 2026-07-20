@@ -11,7 +11,7 @@ export default function Footer() {
         <div>
           <div className="text-xs uppercase tracking-[0.2em] text-muted-foreground">Contacto</div>
           <p className="mt-3 text-sm">exampleajmc@gmail.com</p>
-          <p className="text-sm text-muted-foreground">+34 900 123 456</p>
+          <p className="text-sm text-muted-foreground">+31 987 654 321</p>
         </div>
         <div>
           <div className="text-xs uppercase tracking-[0.2em] text-muted-foreground">Sígue­nos</div>
