@@ -81,7 +81,7 @@ export default function Index() {
           </div>
           <div>
             <div className="text-xs uppercase tracking-[0.28em] text-muted-foreground">Trabajo destacado</div>
-            <h2 className="mt-4 text-4xl md:text-5xl">Formas simples, decisiones difíciles.</h2>
+            <h2 className="mt-4 text-4xl md:text-5xl">Tejiendo, y preservando identidad.</h2>
             <p className="mt-5 text-muted-foreground leading-relaxed">
               Cada proyecto empieza con una pregunta esencial: ¿qué debe permanecer?
               El resto lo removemos con cuidado hasta encontrar la forma correcta.
